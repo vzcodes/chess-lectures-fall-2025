@@ -58,9 +58,9 @@ jobs:
             # ls the output folder
             echo "Contents of ./slides/$name/$out/:"
             ls -l "./slides/$name/$out/"
-            
+
             # copy to the root dist folder
-            cp -r "./slides/$name/$out/"* dist/
+            cp -r "./slides/$name/$out/"* dist/$name/
 
             # list files in dist
             echo "Contents of dist after building $name:"
