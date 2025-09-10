@@ -31,8 +31,68 @@ jobs:
       - name: Install dependencies
         run: nci
 
-      - name: Build
-        run: nr build --base /${{github.event.repository.name}}/
+    #   - name: Build
+    #     run: nr build --base /${{github.event.repository.name}}/
+
+      - name: Build all week*.md with correct base paths
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p dist
+
+          BASE_PREFIX="/${REPO}/" # project site
+
+          # Find markdown entrypoints that start with "week"
+          weeks=()
+          while IFS= read -r -d '' f; do weeks+=("$f"); done < <(find . -maxdepth 1 -name 'week*.md' -print0 | sort -z)
+
+          if [[ ${#weeks[@]} -eq 0 ]]; then
+            echo "No week*.md files found at repo root." >&2
+            exit 1
+          fi
+
+          for f in "${weeks[@]}"; do
+            name="$(basename "${f%.md}")"    # e.g., week1
+            out="dist/${name}"
+            base="${BASE_PREFIX}${name}/"     # e.g., /repo-name/week1/
+            echo "Building ${f} -> ${out} with --base ${base}"
+            npx slidev build "$f" --base "$base" --out "$out"
+          done
+
+      - name: Create index.html
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat > dist/index.html <<'HTML'
+          <!doctype html>
+          <html>
+          <head>
+            <meta charset="utf-8"/>
+            <meta name="viewport" content="width=device-width,initial-scale=1"/>
+            <title>Intermediate Chess — 10-Week Series</title>
+            <style>
+              body{font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:2rem;line-height:1.5}
+              a{display:block;margin:.35rem 0;text-decoration:none}
+              a:hover{text-decoration:underline}
+            </style>
+          </head>
+          <body>
+            <h1>Intermediate Chess — Lecture Series</h1>
+            <div id="links"></div>
+            <script>
+              // Auto-list all week folders that exist in / (after publish)
+              const weeks = [1,2,3,4,5,6,7,8,9,10].map(i => `week${i}`);
+              const container = document.getElementById('links');
+              weeks.forEach(w => {
+                const a = document.createElement('a');
+                a.href = `${w}/`;
+                a.textContent = w.replace('week','Week ') + ' — Open';
+                container.appendChild(a);
+              });
+            </script>
+          </body>
+          </html>
+          HTML
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
