@@ -54,6 +54,9 @@ jobs:
             base="${BASE_PREFIX}${name}/"     # e.g., /repo-name/week1/
             echo "Building ${f} -> ${out} with --base ${base}"
             npx slidev build "$f" --base "$base" --out "$out"
+
+            # copy to the root dist folder
+            cp -r "$out/"* dist/
           done
 
       - name: Create index.html
