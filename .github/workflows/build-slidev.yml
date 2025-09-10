@@ -55,6 +55,10 @@ jobs:
             echo "Building ${f} -> ${out} with --base ${base}"
             npx slidev build "$f" --base "$base" --out "$out"
 
+            # ls the output folder
+            echo "Contents of ./slides/$name/$out/:"
+            ls -l "./slides/$name/$out/"
+            
             # copy to the root dist folder
             cp -r "./slides/$name/$out/"* dist/
 
