@@ -59,6 +59,9 @@ jobs:
             echo "Contents of ./slides/$name/$out/:"
             ls -l "./slides/$name/$out/"
 
+            # ensure dist/name exists
+            mkdir -p "dist/$name"
+
             # copy to the root dist folder
             cp -r "./slides/$name/$out/"* dist/$name/
 
