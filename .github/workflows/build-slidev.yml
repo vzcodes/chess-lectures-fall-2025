@@ -31,16 +31,13 @@ jobs:
       - name: Install dependencies
         run: nci
 
-    #   - name: Build
-    #     run: nr build --base /${{github.event.repository.name}}/
-
       - name: Build all week*.md with correct base paths
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p dist
 
-          BASE_PREFIX="/${REPO}/" # project site
+          BASE_PREFIX="/${{github.event.repository.name}}/" # project site
 
           # Find markdown entrypoints that start with "week"
           weeks=()
