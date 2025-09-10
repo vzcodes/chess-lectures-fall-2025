@@ -56,7 +56,7 @@ jobs:
             npx slidev build "$f" --base "$base" --out "$out"
 
             # copy to the root dist folder
-            cp -r "$out/"* dist/
+            cp -r "./slides/$name/$out/"* dist/
           done
 
       - name: Create index.html
