@@ -1,16 +1,15 @@
 ---
-title: Intermediate Chess Lessons - Week 1
+title: Intermediate Chess Lessons - Week 2
 theme: seriph
-background: /frontpage.jpg
+background: frontpage.jpg
 
 ---
 
-## Welcome to the Course - Week 1
+## Welcome to the Course - Week 2
 
 10 weeks of lessons
 
 ---
-
 
 # Intermediate Chess Endgames
 
@@ -18,9 +17,59 @@ Welcome to this deck on intermediate chess endgames! Today we'll explore two of 
 
 We'll also include interactive boards and quizzes so you can test your skills!
 
-<Arrow v-bind="{ x1:10, y1:10, x2:200, y2:200 }" />
+<div class="lc-wrap">
+  <iframe
+    src="https://lichess.org/study/embed/4kgBurog/TkpKbJOZ?theme=brown&piece=cburnett"
+    frameborder="0"
+    allowtransparency="true"
+    loading="lazy"
+  ></iframe>
+</div>
 
-<Chessboard fen="8/8/8/4k3/4P3/3R4/4K3/8 w - - 0 1" />
+<style>
+.lc-wrap {
+  width: 400px;          /* control size here */
+  aspect-ratio: 1 / 1;   /* square board */
+}
+.lc-wrap iframe {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border: 0;
+}
+</style>
+
+
+
+---
+
+
+
+# Intermediate Chess Endgames - V2
+
+
+<div class="lc-wrap">
+  <iframe
+    src="https://lichess.org/study/embed/4kgBurog/QQCbCHqq?theme=brown&piece=cburnett"
+    frameborder="0"
+    allowtransparency="true"
+    loading="lazy"
+  ></iframe>
+</div>
+
+
+<style>
+.lc-wrap {
+  width: 600px;          /* control size here */
+  aspect-ratio: 1 / 1;   /* square board */
+}
+.lc-wrap iframe {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border: 0;
+}
+</style>
 
 ---
 

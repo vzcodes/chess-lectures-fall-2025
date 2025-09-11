@@ -3,8 +3,8 @@
 ## Running one slide deck
 To start the deck, visit:
 
-- `pnpm install`
-- `pnpm slidev slides/week1/week1.md`
+- `npm install`
+- `npx slidev slides/week1/week1.md`
 - visit <http://localhost:3030>
 
 ## To build full system
