@@ -49,6 +49,7 @@ Introduce myself
         <ul class="list-disc pl-5 text-base space-y-2">
             <li>4th-year undergraduate student studying Computer Science</li>
             <li>CFC Rating: ~2200 &nbsp;|&nbsp; FIDE Rating: ~1900</li>
+            <li>Two Canadian National Master norms</li>
             <li>Hart House Chess Club Secretary (2023-2025)</li>
             <li>Taught intermediate lessons in 2023</li>
             <li>FIDE Arbiter</li>
@@ -60,24 +61,33 @@ Introduce myself
     </div>
 </div>
 
+
+---
+layout: image-right
+image: /assets/question.png
+
+---
+# Your Turn
+
 ---
 layout: image-right
 image: /assets/carlsen.jpg
 
 ---
 
-# Format
+# Lesson Format
 
-> The first **20 minutes** will be a lecture on the theme of Modern Chess Players, followed by players playing an unrated training game at a time control of **20+0**.  
-> Afterward, there will be **30 minutes** of analysis of played games and possible tactics/puzzles.  
-> All players are expected to notate moves until they have less than 5 minutes.
+> The first **20 minutes** will be a lecture on this semester's theme of **Modern Chess Players**
+
+> Followed by players playing an unrated training game at a time control of **20+0** (approx 40 mins).  
+
+> Afterwards, there will be **30 minutes** of analysis of played games and any additional time will be dedicated to tactics/puzzles.  
 
 ---
 
 # Why a New Format
 
-This format encourages participation through weekly game-play, mandatory notation, and collaborative analysis of participants’ own games.  
-These will set players up for entry into tournament play and/or tournament improvement.
+This format encourages participation through weekly game-play, mandatory notation, and collaborative analysis of participants’ own games.  These will set players up for entry into tournament play and/or tournament improvement.
 
 - Much of chess learning can now be done online
 - The advantage of in-person learning is in the analysis
