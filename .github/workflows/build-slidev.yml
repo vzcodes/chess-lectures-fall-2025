@@ -59,6 +59,10 @@ jobs:
             echo "Contents of ./slides/$name/$out/:"
             ls -l "./slides/$name/$out/"
 
+            # copy files from assets
+            echo "Copying assets from ./slides/$name/assets to ./slides/$name/$out/assets"
+            cp -r "./slides/$name/assets" "./slides/$name/$out/assets"
+
             # ensure dist/name exists
             mkdir -p "dist/$name"
 
