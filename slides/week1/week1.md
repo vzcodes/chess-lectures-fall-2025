@@ -62,7 +62,7 @@ Introduce myself
 
 ---
 layout: image-right
-image: /assets/carlson.png
+image: /assets/carlsen.jpg
 
 ---
 
@@ -91,7 +91,7 @@ These will set players up for entry into tournament play and/or tournament impro
     <div>
         <h4 class="text-lg font-semibold mb-2">World Elite</h4>
         <ul class="list-disc pl-5 text-base mb-4 space-y-1">
-            <li>GM Magnus Carlson</li>
+            <li>GM Magnus Carlsen</li>
             <li>GM Hikaru Nakamura</li>
             <li>GM Judit Polgar</li>
         </ul>
@@ -126,11 +126,13 @@ These will set players up for entry into tournament play and/or tournament impro
 - **October:** 3, 10, 17, 24
 - **November:** 7, 14, 21, 28
 
+All hosted in the Bickersteth Room of Hart House
+
 ---
 
 # Lesson Topics by Week
 
-1. Introduction, Overview, lecture on GM Magnus Carlson
+1. Introduction, Overview, lecture on GM Magnus Carlsen
 2. Lecture on GM Hikaru Nakamura
 3. Lecture on GM Judit Polgar
 4. Lecture on GM Hans Niemann
@@ -142,14 +144,45 @@ These will set players up for entry into tournament play and/or tournament impro
 10. Lecture on GM Gukesh Dommaraju
 
 ---
+layout: image-left
+image: /assets/carlsen-chessbase.jpeg
 
-## Let's Begin
+---
 
-Lichess Study: https://lichess.org/study/EEBSsRa8/pKkLJsbe
+# Today's Topic
+
+## Magnus Carlsen
+Norwegian chess grandmaster and one of the greatest players in history, known for his five World Championship titles and record-breaking peak rating. 
+
+<!-- Kasparov, Fischer, Carlson are considered top-3 -->
+
+Born on November 30, 1990, he became a grandmaster at 13 and was World Champion from 2013 to 2023. 
+
+--
+
+*photo credit: ChessBase
+
+---
+
+### Lichess Study: https://lichess.org/study/EEBSsRa8/pKkLJsbe
 
 <div class="flex items-center justify-center gap-6 mt-5">
     <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
-        <img src="/assets/carlson.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[350px]" />
+        <img src="/assets/carlsen-game-2004.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[350px]" />
         <p class="text-xs text-gray-600 mt-1 italic">Carlson, Magnus vs Dolmatov, Sergey (2004)</p>
     </div>
 </div>
+
+---
+
+## Magnus Carlen's Style of Play
+--
+- many openings
+- endgame technique
+- positional mastery
+- tactics
+
+<div v-click>
+  <p class="text-xl font-bold text-blue-600 mt-4">Universal style</p>
+</div>
+
