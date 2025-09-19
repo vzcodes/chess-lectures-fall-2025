@@ -140,3 +140,16 @@ These will set players up for entry into tournament play and/or tournament impro
 8. Lecture on GM Awonder Liang
 9. Lecture on GM Shawn-Rodigue Lemieux
 10. Lecture on GM Gukesh Dommaraju
+
+---
+
+## Let's Begin
+
+Lichess Study: https://lichess.org/study/EEBSsRa8/pKkLJsbe
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/carlson.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Carlson, Magnus vs Dolmatov, Sergey (2004)</p>
+    </div>
+</div>
