@@ -169,7 +169,7 @@ Born on November 30, 1990, he became a grandmaster at 13 and was World Champion 
 <div class="flex items-center justify-center gap-6 mt-5">
     <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
         <img src="/assets/anish-carlsen-0.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
-        <p class="text-xs text-gray-600 mt-1 italic">Giri, Anish vs Carlsen, Magnus</p>
+        <p class="text-xs text-gray-600 mt-1 italic">Giri, Anish vs Carlsen, Magnus (2021)</p>
     </div>
 </div>
 ---
@@ -179,7 +179,7 @@ Born on November 30, 1990, he became a grandmaster at 13 and was World Champion 
 <div class="flex items-center justify-center gap-6 mt-5">
     <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
         <img src="/assets/anish-carlsen-1.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
-        <p class="text-xs text-gray-600 mt-1 italic">Giri, Anish vs Carlsen, Magnus</p>
+        <p class="text-xs text-gray-600 mt-1 italic">Giri, Anish vs Carlsen, Magnus (2021)</p>
     </div>
 </div>
 
@@ -191,7 +191,7 @@ Born on November 30, 1990, he became a grandmaster at 13 and was World Champion 
 <div class="flex items-center justify-center gap-6 mt-5">
     <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
         <img src="/assets/anish-carlsen-2.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
-        <p class="text-xs text-gray-600 mt-1 italic">Giri, Anish vs Carlsen, Magnus</p>
+        <p class="text-xs text-gray-600 mt-1 italic">Giri, Anish vs Carlsen, Magnus (2021)</p>
     </div>
 </div>
 
@@ -242,3 +242,55 @@ Born on November 30, 1990, he became a grandmaster at 13 and was World Champion 
   <p class="text-xl font-bold text-blue-600 mt-4">Universal style</p>
 </div>
 
+
+---
+
+## Game Time
+
+Time control: 20 mins + 0 seconds increment
+
+Record moves until: 5 mins remaining OR until time period is over ~30 mins. 
+
+<div class="flex items-center justify-right gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-right md:justify-end flex-col items-center">
+        <img src="/assets/notation.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Chess Notation</p>
+    </div>
+</div>
+
+---
+
+### Endgame analysis: https://lichess.org/study/EEBSsRa8/SWEtHcva
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/endgame-0.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Carlsen, Magnus vs Meier, Georg (2022)</p>
+    </div>
+</div>
+
+---
+
+### Endgame analysis: https://lichess.org/study/EEBSsRa8/SWEtHcva
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/endgame-1.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Carlsen, Magnus vs Meier, Georg (2022)</p>
+    </div>
+</div>
+
+---
+
+### Next Week: Hikaru Nakamura
+
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/hikaru.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[600px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Hikaru Nakamura</p>
+    </div>
+</div>
+
+
+Source: Maria Emelianova 
