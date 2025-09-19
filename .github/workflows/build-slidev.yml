@@ -61,7 +61,7 @@ jobs:
 
             # copy files from assets
             echo "Copying assets from ./slides/$name/assets/ to ./slides/$name/$out"
-            cp -r "./slides/$name/assets/" "./slides/$name/$out/assets"
+            cp -r "./slides/$name/assets/" "./slides/$name/$out"
 
             # ensure dist/name exists
             mkdir -p "dist/$name"
