@@ -164,11 +164,67 @@ Born on November 30, 1990, he became a grandmaster at 13 and was World Champion 
 
 ---
 
+### Example of Style: https://lichess.org/study/EEBSsRa8/9k4N7MY4
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/anish-carlsen-0.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Giri, Anish vs Carlsen, Magnus</p>
+    </div>
+</div>
+---
+
+### Example of Style: https://lichess.org/study/EEBSsRa8/9k4N7MY4
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/anish-carlsen-1.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Giri, Anish vs Carlsen, Magnus</p>
+    </div>
+</div>
+
+
+---
+
+### Example of Style: https://lichess.org/study/EEBSsRa8/9k4N7MY4
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/anish-carlsen-2.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Giri, Anish vs Carlsen, Magnus</p>
+    </div>
+</div>
+
+---
+
 ### Lichess Study: https://lichess.org/study/EEBSsRa8/pKkLJsbe
 
 <div class="flex items-center justify-center gap-6 mt-5">
     <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
-        <img src="/assets/carlsen-game-2004.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[350px]" />
+        <img src="/assets/carlsen-game-2004-0.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Carlson, Magnus vs Dolmatov, Sergey (2004)</p>
+    </div>
+</div>
+
+---
+
+
+### Lichess Study: https://lichess.org/study/EEBSsRa8/pKkLJsbe
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/carlsen-game-2004-1.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Carlson, Magnus vs Dolmatov, Sergey (2004)</p>
+    </div>
+</div>
+
+---
+
+### Lichess Study: https://lichess.org/study/EEBSsRa8/pKkLJsbe
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/carlsen-game-2004-2.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[350px]" />
         <p class="text-xs text-gray-600 mt-1 italic">Carlson, Magnus vs Dolmatov, Sergey (2004)</p>
     </div>
 </div>
