@@ -70,6 +70,19 @@ jobs:
             ls -l dist/
           done
 
+      # - name: Copy assets
+      #   shell: bash
+      #   run: |
+      #     set -euo pipefail
+      #     if [[ -d assets ]]; then
+      #       cp -r assets dist/assets
+      #       echo "Copied assets to dist/assets"
+      #     else
+      #       echo "No assets directory found, skipping copy."
+      #     fi
+      #     echo "Contents of dist after copying assets:"
+      #     ls -l dist/assets
+
       - name: Create index.html
         shell: bash
         run: |

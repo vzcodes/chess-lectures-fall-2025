@@ -1,7 +1,7 @@
 ---
 title: Intermediate Chess Lessons - Week 1
 theme: seriph
-background: frontpage.jpg
+background: /assets/frontpage.jpg
 favicon: 'favicon.ico'
 
 ---
@@ -84,6 +84,8 @@ Theme: The theme of this Fall’s lectures are Modern Chess Players including ho
 - **September** 19, 26
 - **October** 3, 10, 17, 24
 - **November** 7, 14, 21, 28
+
+---
 
 # Lesson Topics by Week
 
