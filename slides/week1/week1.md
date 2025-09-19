@@ -1,7 +1,7 @@
 ---
 title: Intermediate Chess Lessons - Week 1
 theme: seriph
-background: /frontpage.jpg
+background: frontpage.jpg
 favicon: 'favicon.ico'
 
 ---
@@ -63,7 +63,11 @@ First 20 minutes will be a lecture on the theme of Modern Chess Players followed
 ---
 
 # Why a New Format
-NEW Format: This format encourages participation through weekly game-play, mandatory notation, and collaborative analysis of participant’s own games. These will set players up for entry into tournament play and/or tournament improvement. 
+This format encourages participation through weekly game-play, mandatory notation, and collaborative analysis of participant’s own games. These will set players up for entry into tournament play and/or tournament improvement. 
+
+- much of chess learning can now be done online
+- advantages of in-person learning is in the analysis
+- group discussion of ideas
 
 ---
 
@@ -72,3 +76,24 @@ NEW Format: This format encourages participation through weekly game-play, manda
 Theme: The theme of this Fall’s lectures are Modern Chess Players including house-hold names such as GM Magnus Carlson, GM Hikaru Nakamura, GM Judit Polgar, rising-stars such as GM Gukesh Dommaraju, GM Hans Niemann, GM Awonder Liang, and top-Canadian players such as GM Shawn-Rogrigue Lemieux and IM Maili Jade Ouellet. The lectures will consist of an introduction of the players, their playing styles, and analysis of a few of their top games. The goal of these lectures is to encourage players to develop a better intuition behind the top-level play in 2025 along with a greater appreciation and discussion on the storylines which will dominate chess circles in the years to come. 
 
 ---
+
+# Schedule
+
+5:30 pm to 7 pm on the following Fridays
+
+- **September** 19, 26
+- **October** 3, 10, 17, 24
+- **November** 7, 14, 21, 28
+
+# Lesson Topics by Week
+
+- Introduction, Overview, lecture on GM Magnus Carlson
+- Lecture on GM Hikaru Nakamura
+- Lecture on GM Judit Polgar
+- Lecture on GM Hans Niemann
+- Lecture on GM Levon Aronian
+- Lecture on IM Maili Jade Ouellet
+- Lecture on IM Alice Lee
+- Lecture on GM Awonder Liang
+- Lecture on GM Shawn-Rodigue Lemieux
+- Lecture on GM Gukesh Dommaraju
