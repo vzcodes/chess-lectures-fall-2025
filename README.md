@@ -19,3 +19,7 @@ To start the deck, visit:
 4. Run HTTP server such as `npx vite preview`
 
 5. Open `http://localhost:4173/chess-lectures/`
+
+## Public website
+
+The website deployed at https://vzcodes.github.io/chess-lectures-fall-2025/ runs a slightly complex build which goes through each of the folders under `/slides` before adding all assets to the correct folder. Feel free to see the build yaml file [here](/.github/workflows/build-slidev.yml).
