@@ -1,7 +1,7 @@
 ---
-title: Intermediate Chess Lessons - Week 1
+title: Intermediate Chess Lessons - Endgames
 theme: seriph
-background: /frontpage.jpg
+background: /assets/frontpage.jpg
 
 ---
 

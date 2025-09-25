@@ -1,7 +1,7 @@
 ---
 title: Intermediate Chess Lessons - Week 2
 theme: seriph
-background: frontpage.jpg
+background: /assets/frontpage.jpg
 
 ---
 
