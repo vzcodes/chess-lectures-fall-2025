@@ -74,53 +74,17 @@ jobs:
             ls -l dist/
           done
 
-      # - name: Copy assets
-      #   shell: bash
-      #   run: |
-      #     set -euo pipefail
-      #     if [[ -d assets ]]; then
-      #       cp -r assets dist/assets
-      #       echo "Copied assets to dist/assets"
-      #     else
-      #       echo "No assets directory found, skipping copy."
-      #     fi
-      #     echo "Contents of dist after copying assets:"
-      #     ls -l dist/assets
-
-      - name: Create index.html
+      - name: Copy existing index.html
         shell: bash
         run: |
           set -euo pipefail
-          cat > dist/index.html <<'HTML'
-          <!doctype html>
-          <html>
-          <head>
-            <meta charset="utf-8"/>
-            <meta name="viewport" content="width=device-width,initial-scale=1"/>
-            <title>Intermediate Chess — 10-Week Series</title>
-            <style>
-              body{font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:2rem;line-height:1.5}
-              a{display:block;margin:.35rem 0;text-decoration:none}
-              a:hover{text-decoration:underline}
-            </style>
-          </head>
-          <body>
-            <h1>Intermediate Chess — Lecture Series</h1>
-            <div id="links"></div>
-            <script>
-              // Auto-list all week folders that exist in / (after publish)
-              const weeks = [1,2,3,4,5,6,7,8,9,10].map(i => `week${i}`);
-              const container = document.getElementById('links');
-              weeks.forEach(w => {
-                const a = document.createElement('a');
-                a.href = `${w}/`;
-                a.textContent = w.replace('week','Week ') + ' — Open';
-                container.appendChild(a);
-              });
-            </script>
-          </body>
-          </html>
-          HTML
+          if [[ -f slides/index.html ]]; then
+            cp slides/index.html dist/index.html
+            echo "Copied existing index.html from slides/ to dist/"
+          else
+            echo "Warning: slides/index.html not found, creating basic index"
+            echo "<h1>Chess Lectures</h1>" > dist/index.html
+          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
