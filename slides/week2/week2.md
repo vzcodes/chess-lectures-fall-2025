@@ -43,7 +43,7 @@ Hikaru Nakamura (born December 9, 1987) is an American chess grandmaster, stream
 
 ---
 
-### Example of Style: https://lichess.org/study/EEBSsRa8/vdBloCI1
+### Example 1: https://lichess.org/study/EEBSsRa8/vdBloCI1
 
 <div class="flex items-center justify-center gap-6 mt-5">
     <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
@@ -53,12 +53,34 @@ Hikaru Nakamura (born December 9, 1987) is an American chess grandmaster, stream
 </div>
 ---
 
-### Example of Style: https://lichess.org/study/EEBSsRa8/vdBloCI1
+### Example 1: https://lichess.org/study/EEBSsRa8/vdBloCI1
 
 <div class="flex items-center justify-center gap-6 mt-5">
     <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
         <img src="/assets/nakamura-1-1.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
         <p class="text-xs text-gray-600 mt-1 italic">Nakamura, Hikaru vs  Vachier-Lagrave, Maxime (2008)</p>
+    </div>
+</div>
+---
+
+
+### Example 2: https://lichess.org/study/EEBSsRa8/lcHf7HJp
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/nakamura-2-0.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Caruana, Fabiano - Nakamura, Hikaru (2025)</p>
+    </div>
+</div>
+
+---
+
+### Example 2: https://lichess.org/study/EEBSsRa8/lcHf7HJp
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/nakamura-2-1.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Caruana, Fabiano - Nakamura, Hikaru (2025)</p>
     </div>
 </div>
 
@@ -92,7 +114,7 @@ Record moves until: 5 mins remaining OR until time period is over ~30 mins.
 
 ---
 
-### Next Week: Hikaru Nakamura
+### Next Week: Judit Polgar
 
 
 <div class="flex items-center justify-center gap-6 mt-5">
