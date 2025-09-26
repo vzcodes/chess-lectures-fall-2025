@@ -40,5 +40,69 @@ Hikaru Nakamura (born December 9, 1987) is an American chess grandmaster, stream
 * source: Wikipedia
 * photo credit: FIDE
 
+
 ---
+
+### Example of Style: https://lichess.org/study/EEBSsRa8/vdBloCI1
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/nakamura-1-0.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Nakamura, Hikaru vs  Vachier-Lagrave, Maxime (2008)</p>
+    </div>
+</div>
+---
+
+### Example of Style: https://lichess.org/study/EEBSsRa8/vdBloCI1
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/nakamura-1-1.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Nakamura, Hikaru vs  Vachier-Lagrave, Maxime (2008)</p>
+    </div>
+</div>
+
+---
+layout: image-right
+image: /assets/nakamura-toronto.png
+---
+
+## Hikaru Nakamura's Style of Play
+--
+- calculation
+- speed chess
+- endgames
+- tactics
+- fighting spirit
+
+---
+
+## Game Time
+
+Time control: 20 mins + 0 seconds increment
+
+Record moves until: 5 mins remaining OR until time period is over ~30 mins. 
+
+<div class="flex items-center justify-right gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-right md:justify-end flex-col items-center">
+        <img src="/assets/notation.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Chess Notation</p>
+    </div>
+</div>
+
+---
+
+### Next Week: Hikaru Nakamura
+
+
+<div class="flex items-center justify-center gap-6 mt-5">
+    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
+        <img src="/assets/polgar.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[600px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Judit Polgar</p>
+    </div>
+</div>
+
+
+Image source: FIDE
+
 
