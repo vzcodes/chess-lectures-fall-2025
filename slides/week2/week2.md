@@ -20,7 +20,8 @@ background: /assets/frontpage.jpg
 
 | Date            | Room                  |
 |-----------------|-----------------------|
-| September 26, 2025 | Board Room (2004)     |
+| September 19, 2025    | Bickersteth Room (3030)       |
+| **September 26, 2025** | **Board Room (2004)**     |
 | October 3, 2025    | Map Room (1039)       |
 | October 10, 2025   | Map Room (1039)       |
 | October 17, 2025   | Map Room (1039)       |
