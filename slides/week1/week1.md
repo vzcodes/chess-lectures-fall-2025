@@ -103,7 +103,7 @@ This format encourages participation through weekly game-play, mandatory notatio
         <ul class="list-disc pl-5 text-base mb-4 space-y-1">
             <li>GM Magnus Carlsen</li>
             <li>GM Hikaru Nakamura</li>
-            <li>GM Judit Polgar</li>
+            <li>GM Judit Polgár</li>
         </ul>
         <h4 class="text-lg font-semibold mb-2">Rising Stars</h4>
         <ul class="list-disc pl-5 text-base space-y-1">
@@ -144,7 +144,7 @@ All hosted in the Bickersteth Room of Hart House
 
 1. Introduction, Overview, lecture on GM Magnus Carlsen
 2. Lecture on GM Hikaru Nakamura
-3. Lecture on GM Judit Polgar
+3. Lecture on GM Judit Polgár
 4. Lecture on GM Hans Niemann
 5. Lecture on GM Levon Aronian
 6. Lecture on IM Maili Jade Ouellet

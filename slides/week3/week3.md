@@ -30,12 +30,13 @@ background: /assets/frontpage.jpg
 
 ---
 layout: image-right
-image: /assets/niemann.png
+image: /assets/polgar.png
 ---
 
 
-## Today's Theme: Hans Niemann
-Hans Moke Niemann is an American chess grandmaster and Twitch streamer. He first entered the top 100 junior players list on March 1, 2019, and became a FIDE grandmaster on January 22, 2021. In July 2021, he won the World Open chess tournament in Philadelphia. He achieved a peak global ranking of No. 16 in September 2024.
+## Today's Theme: Judit Polgár
+
+Judit Polgár is a Hungarian chess grandmaster, widely regarded as the strongest female chess player of all time. She is the only woman to be ranked in the world top 10, the only woman to achieve a rating of over 2700, and the only woman to compete in the final stage of a World Chess Championship. Wikipedia
 
 * source: Wikipedia
 * photo credit: Frans Peeters

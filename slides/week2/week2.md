@@ -114,13 +114,13 @@ Record moves until: 5 mins remaining OR until time period is over ~30 mins.
 
 ---
 
-### Next Week: Judit Polgar
+### Next Week: Judit Polgár
 
 
 <div class="flex items-center justify-center gap-6 mt-5">
     <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
         <img src="/assets/polgar.png" alt="Tournament Photo 2025" class="rounded-lg shadow-xl w-[600px]" />
-        <p class="text-xs text-gray-600 mt-1 italic">Judit Polgar</p>
+        <p class="text-xs text-gray-600 mt-1 italic">Judit Polgár</p>
     </div>
 </div>
 
