@@ -9,7 +9,7 @@ background: /assets/frontpage.jpg
 
 ## Hart House Chess Club
 
-**Week 6**
+**Week 8**
 
 **Fall 2025** &mdash; *Victor Zheng*
 
@@ -25,21 +25,21 @@ background: /assets/frontpage.jpg
 | October 3, 2025    | Map Room (1039)       |
 | October 10, 2025   | Map Room (1039)       |
 | October 17, 2025   | Map Room (1039)       |
-| **November 14, 2025**  | **Board Room (2004)**  |
+| November 14, 2025  | Board Room (2004) |
 | November 21, 2025  | Bickersteth Room (3030) |
-| November 28, 2025  | Map Room (1039)       |
+| **November 28, 2025**  | **Map Room (1039)**       |
 
 ---
 layout: image-right
-image: /assets/alice-lee-fide.jpeg
+image: /assets/shawn.png
 ---
 
 
-## Today's Theme: Alice Lee
-Alice Teresa Lee (born October 13, 2009) is an American chess player with the titles of International Master (IM) and Woman Grandmaster (WGM). She is the youngest American female, and the third youngest female worldwide, to achieve the IM title. Her tournament accomplishments include being a two-time Women’s American Cup champion, a two-time U.S. Girls’ Junior champion, a three-time World Youth champion, and a two-time Women’s Olympiad medalist.
+## Today's Theme: Shawn Rodrigue-Lemieux
+Shawn Rodrigue-Lemieux (born 2004) is a Canadian chess grandmaster who won the 2022 World Under 18 Chess Championship.[2][3] He completed all requirements for a Grandmaster title in 2023 at the age of 19, and was officially awarded the GM title in January 2024.[4][5] He is the youngest grandmaster in Quebec's history.[6]
 
 * source: Wikipedia
-* photo credit: FIDE
+* photo credit: Wikipedia
 
 ---
 
@@ -80,12 +80,6 @@ Record moves until: 5 mins remaining OR until time period is over ~30 mins.
 
 ---
 
-### Next Time: Awonder Liang
+### Thanks for coming!
 
-<div class="flex items-center justify-center gap-6 mt-5">
-    <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
-        <img src="/assets/awonder.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
-        <p class="text-xs text-gray-600 mt-1 italic">Awonder Liang</p>
-    </div>
-</div>
 

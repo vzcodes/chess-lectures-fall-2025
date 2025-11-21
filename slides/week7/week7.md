@@ -9,7 +9,7 @@ background: /assets/frontpage.jpg
 
 ## Hart House Chess Club
 
-**Week 6**
+**Week 7**
 
 **Fall 2025** &mdash; *Victor Zheng*
 
@@ -25,21 +25,20 @@ background: /assets/frontpage.jpg
 | October 3, 2025    | Map Room (1039)       |
 | October 10, 2025   | Map Room (1039)       |
 | October 17, 2025   | Map Room (1039)       |
-| **November 14, 2025**  | **Board Room (2004)**  |
-| November 21, 2025  | Bickersteth Room (3030) |
+| November 14, 2025  | Board Room (2004) |
+| **November 21, 2025**  | **Bickersteth Room** (3030) |
 | November 28, 2025  | Map Room (1039)       |
 
 ---
 layout: image-right
-image: /assets/alice-lee-fide.jpeg
+image: /assets/awonder.png
 ---
 
-
-## Today's Theme: Alice Lee
-Alice Teresa Lee (born October 13, 2009) is an American chess player with the titles of International Master (IM) and Woman Grandmaster (WGM). She is the youngest American female, and the third youngest female worldwide, to achieve the IM title. Her tournament accomplishments include being a two-time Women’s American Cup champion, a two-time U.S. Girls’ Junior champion, a three-time World Youth champion, and a two-time Women’s Olympiad medalist.
+## Today's Theme: Awonder Liang
+Awonder Liang (born April 9, 2003)[1] is an American chess Grandmaster. A chess prodigy in his youth, he was the third-youngest American to qualify for the title of Grandmaster (after Abhimanyu Mishra and Samuel Sevian), at the age of 14. Liang was twice world champion in his age category.
 
 * source: Wikipedia
-* photo credit: FIDE
+* photo credit: Wikipedia
 
 ---
 
@@ -80,12 +79,12 @@ Record moves until: 5 mins remaining OR until time period is over ~30 mins.
 
 ---
 
-### Next Time: Awonder Liang
+### Next Time: Shawn Rodrigue-Lemieux 
 
 <div class="flex items-center justify-center gap-6 mt-5">
     <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
-        <img src="/assets/awonder.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
-        <p class="text-xs text-gray-600 mt-1 italic">Awonder Liang</p>
+        <img src="/assets/shawn.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
+        <p class="text-xs text-gray-600 mt-1 italic">Shawn Rodrigue-Lemieux</p>
     </div>
 </div>
 
