@@ -42,23 +42,23 @@ Awonder Liang (born April 9, 2003)[1] is an American chess Grandmaster. A chess 
 
 ---
 
-### Example 1: https://lichess.org/study/EEBSsRa8/LQtDA1oP
+### Example 1: https://lichess.org/study/EEBSsRa8/YaeUkSml
 
 <div class="flex items-center justify-center gap-6 mt-5">
     <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
         <img src="/assets/game0.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
-        <p class="text-xs text-gray-600 mt-1 italic">Bruzon, Lazaro Batista - Lee, Alice</p>
+        <p class="text-xs text-gray-600 mt-1 italic">Awonder Liang - Larry Kaufman</p>
     </div>
 </div>
 
 ---
 
-### Example 2: https://lichess.org/study/EEBSsRa8/SiZAHzkZ
+### Example 2: https://lichess.org/study/EEBSsRa8/9932vvku
 
 <div class="flex items-center justify-center gap-6 mt-5">
     <div class="md:w-1/2 flex justify-center md:justify-end flex-col items-center">
         <img src="/assets/game1.png" alt="" class="rounded-lg shadow-xl w-[350px]" />
-        <p class="text-xs text-gray-600 mt-1 italic">Alice Lee vs Jennifer Yu</p>
+        <p class="text-xs text-gray-600 mt-1 italic">Awonder Liang - Levon Aronian</p>
     </div>
 </div>
 
